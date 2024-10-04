@@ -72,3 +72,150 @@ text-align:center;
 #description{
     padding:50px 50px 40px;
 }
+
+
+h2 {font-family:"Montserrat", sans-serif;
+    font-size:1.5em;
+    font-weight:bold;
+    color:#25a2c3;
+    text-align:center;
+    margin-bottom:0.7em;
+    margin-top:2rem;
+
+}
+#middle p {
+    text-align:center;
+    line-height:1.65;
+    font-family:"Open Sans" sans-serif;
+    font-size:1.4rem;
+}
+#circle{
+    background-image:url(../assets/notebook.jpg);
+    background-position:center;
+    background-size:contain;
+    width:320px;
+    height:320px;
+    border-radius:50%;
+    margin:2.5em 6em;
+   
+
+}
+#second{
+    padding-left:1rem;
+    padding-right:1.5rem;
+}
+#second-part{padding-right: 4rem;
+    padding-left: 3rem;
+}
+
+#red-block{
+   background-color:#e22d0e;
+}
+h3{
+    font-family:"Montserrat", sans-serif;
+    font-weight:bold;
+    font-size:2rem;
+    color:white;
+    text-align:center;
+    padding-top:3rem ;
+    padding-bottom:1.5rem ;
+    margin-top:2rem;
+    
+    
+}
+
+#red-block #three-months{
+    text-align:center;
+    line-height:1.65;
+    font-family:"Open Sans" sans-serif;
+    font-size:1.1rem;
+    color:white;
+    font-style: italic;
+    padding-bottom:2rem;
+   
+}
+#red-block #mario{
+    text-align:center;
+    line-height:1.65;
+    font-family:"Open Sans" sans-serif;
+    font-size:1.1rem;
+    color:white;}
+    
+#red-block #signature{
+    text-align:center;
+    line-height:1.65;
+    font-family:"Open Sans" sans-serif;
+    font-size:0.8rem;
+    color:white;
+    padding-bottom:2rem;
+}
+.third-image{
+    background-image:url(../assets/foto1.jpg);
+    width:450px;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#borders{
+    width:450px;
+    border:1px solid rgba(128, 128, 128, 0.521);
+    margin-left:1.5rem;
+    margin-top:3rem;
+    border-bottom-left-radius:1%;
+    border-bottom-right-radius:1%;
+}
+
+#borders p{
+    padding-bottom:2rem;
+    text-align:center;
+    line-height:1.65;
+    font-family:"Open Sans" sans-serif;
+    font-size:1.2rem;
+}
+#gaming{
+    width:450px;
+    border:1px solid rgba(128, 128, 128, 0.521);
+    margin-left:1.5rem;
+    margin-top:3rem;
+    border-bottom-left-radius:1%;
+    border-bottom-right-radius:1%;
+    
+}
+#gaming p{
+    padding:1rem 2rem 2rem;
+    text-align:center;
+    line-height:1.65;
+    font-family:"Open Sans" sans-serif;
+    font-size:1.2rem;
+}
+.fourth-image{
+    background-image:url(../assets/foto2.jpg);
+    width:450px;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.working-image{
+    background-image:url(../assets/foto3.jpg);
+    width:450px;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#work{
+    width:450px;
+    border:1px solid rgba(128, 128, 128, 0.521);
+    margin-left:1.5rem;
+    margin-top:3rem;
+    border-bottom-left-radius:1%;
+    border-bottom-right-radius:1%;
+    
+}
+#work p{
+    padding:1rem 2rem 2rem;
+    text-align:center;
+    line-height:1.65;
+    font-family:"Open Sans" sans-serif;
+    font-size:1.2rem;
+}
